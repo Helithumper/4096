@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=Tile(int)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Tile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=x\ y
+comment1.target=Tile(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getTileValue()
+comment4.params=
+comment4.target=void\ repaint()
+comment5.params=
+comment5.target=void\ winScreen()
+numComments=6
